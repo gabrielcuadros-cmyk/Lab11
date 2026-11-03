@@ -47,6 +47,11 @@ captures/
 .idea/modules.xml
 # Comment next line if keeping position of elements in Navigation Editor is relevant for you
 .idea/navEditor.xml
+# Archivos locales de Android Studio en el proyecto start/
+start/.idea/workspace.xml
+start/.idea/gradle.xml
+start/.idea/caches/deviceStreaming.xml
+start/.idea/deploymentTargetSelector.xml
 
 # Keystore files
 # Uncomment the following lines if you do not want to check your keystore files in.
@@ -57,7 +62,7 @@ captures/
 .externalNativeBuild
 
 # Google Services (e.g. APIs or Firebase)
-# google-services.json
+google-services.json
 
 # Freeline
 freeline.py
@@ -80,3 +85,4 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+.DS_Store
